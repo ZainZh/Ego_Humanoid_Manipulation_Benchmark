@@ -26,6 +26,7 @@ We are using IsaacLab version 1.2.0 and IsaacSim 4.2.0 for EgoVLA data collectio
    ```sh
    git lfs install
    ```
+   test
    !!Note: Since we are hosting LFS files on hugging face repo as a submodule, you might need to [set up authentication with your hugging face account](https://huggingface.co/docs/hub/en/security-git-ssh).
    
    Clone repo & assets:
