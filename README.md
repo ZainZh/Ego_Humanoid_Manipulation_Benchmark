@@ -11,7 +11,7 @@ Ruihan Yang<sup>1*</sup>, Qinxi Yu<sup>2*</sup>, Yecheng Wu<sup>3,4</sup>, Rui Y
 [Project Page](https://rchalyang.github.io/EgoVLA) / [Arxiv](https://arxiv.org/abs/2507.12440) / [Training code and eval](https://github.com/RchalYang/EgoVLA_Release)
 
 For training code and eval code, follow: https://github.com/RchalYang/EgoVLA_Release
-
+I am here
 ## Getting Started
 ### Notice!
 We are using IsaacLab version 1.2.0 and IsaacSim 4.2.0 for EgoVLA data collection and evaluation. As we observe large change of physics behaviours in later IsaacLab & IsaacSim version, please consider downgrade versions to reproduce results.
